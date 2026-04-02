@@ -1,5 +1,6 @@
 def greet(name):
-    return f"Hello, {name}! Welcome to Git practice. by W3SCHOOL by meshack"
+    # Added emoji for fun
+    return f"Hello, {name}! Welcome to Git practice 🚀"
 
 if __name__ == "__main__":
     user = input("Enter your name: ")
